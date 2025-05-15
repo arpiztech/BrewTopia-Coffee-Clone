@@ -7,7 +7,7 @@ This project was built as a partially frontend clone to practice real-world deve
 
 > 🚀 Live Demo:https://github.com/arpiztech/BrewTopia-Coffee-Clone 
 > 📸 Preview:
-![Brewtopia Coffee Clone Screenshot](BrewTopia.png)
+
 ---
 ## 🛠️ Tech Stack
 
